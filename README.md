@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/DimensionDataResearch/dd-cloud-compute-terraform.png?label=ready&title=Ready)](https://waffle.io/DimensionDataResearch/dd-cloud-compute-terraform)
 # dd-cloud-compute-terraform
 [Terraform](https://terraform.io/) provider for Dimension Data cloud compute.
 
